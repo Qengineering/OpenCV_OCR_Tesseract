@@ -10,7 +10,7 @@ Special made for a bare Raspberry Pi 4, see [Q-engineering deep learning example
 To run the application, you have to:
 - A raspberry Pi 4 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
 - OpenCV 64-bit installed. [Install OpenCV 4.5](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html) <br/>
-- Install tesseract: `sudo apt-get install tesseract-ocr-dev`
+- Install tesseract: `sudo apt-get install libtesseract-dev tesseract-ocr`
 - Code::Blocks installed. (```$ sudo apt-get install codeblocks```)
 
 
